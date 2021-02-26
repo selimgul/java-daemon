@@ -1,0 +1,12 @@
+service\entrypoint\springboot\DaemonController.class
+service\worker\VerificationWorker.class
+service\threading\Worker.class
+service\threading\WorkerGroupManager.class
+service\threading\WorkerGroup.class
+service\threading\WorkerGroupInfo.class
+service\worker\FileWorker.class
+service\entrypoint\springboot\SpringBootApp.class
+service\entrypoint\console\ConsoleApp.class
+service\threading\WorkerContext.class
+service\entrypoint\daemon\DaemonApp.class
+service\extensibility\ObjectBooster.class

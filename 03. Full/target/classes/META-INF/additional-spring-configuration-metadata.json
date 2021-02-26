@@ -1,0 +1,52 @@
+{"properties": [
+  {
+    "name": "workergroup.count",
+    "type": "java.lang.String",
+    "description": "A description for 'workergroup.count'"
+  },
+  {
+    "name": "workergroup.groups[0].name",
+    "type": "java.lang.String",
+    "description": "A description for 'workergroup.groups[0].name'"
+  },
+  {
+    "name": "workergroup.groups[1].name",
+    "type": "java.lang.String",
+    "description": "A description for 'workergroup.groups[1].name'"
+  },
+  {
+    "name": "workergroup.groups[0].count",
+    "type": "java.lang.String",
+    "description": "A description for 'workergroup.groups[0].count'"
+  },
+  {
+    "name": "workergroup.groups[0].type",
+    "type": "java.lang.String",
+    "description": "A description for 'workergroup.groups[0].type'"
+  },
+  {
+    "name": "workergroup.groups[0].delay",
+    "type": "java.lang.String",
+    "description": "A description for 'workergroup.groups[0].delay'"
+  },
+  {
+    "name": "workergroup.groups[1].count",
+    "type": "java.lang.String",
+    "description": "A description for 'workergroup.groups[1].count'"
+  },
+  {
+    "name": "workergroup.groups[1].type",
+    "type": "java.lang.String",
+    "description": "A description for 'workergroup.groups[1].type'"
+  },
+  {
+    "name": "workergroup.groups[1].delay",
+    "type": "java.lang.String",
+    "description": "A description for 'workergroup.groups[1].delay'"
+  },
+  {
+    "name": "workergroup.groups",
+    "type": "java.lang.String",
+    "description": "A description for 'workergroup.groups'"
+  }
+]}

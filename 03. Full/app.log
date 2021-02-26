@@ -1,0 +1,60 @@
+[INFO] 2020-10-09 21:36:54,612 service.entrypoint.daemon.DaemonApp Run - ================================================================================
+[INFO] 2020-10-09 21:36:54,630 service.entrypoint.daemon.DaemonApp Run - Daemon Starter (Selim Gul, 2004-2020)
+[INFO] 2020-10-09 21:36:54,630 service.entrypoint.daemon.DaemonApp Run - Application started in console mode. Press any key to shutdown.
+[INFO] 2020-10-09 21:36:54,630 service.entrypoint.daemon.DaemonApp Run - ================================================================================
+[INFO] 2020-10-09 21:36:56,394 service.entrypoint.daemon.DaemonApp start - Starting up daemon.
+[INFO] 2020-10-09 21:36:56,395 service.entrypoint.daemon.DaemonApp start - Daemon started.
+[INFO] 2020-10-09 21:36:56,398 service.threading.WorkerGroupManager createWorkerGroups - FileWorkerGroup group created.
+[INFO] 2020-10-09 21:36:56,398 service.threading.WorkerGroupManager createWorkerGroups - VerificationWorkerGroup group created.
+[INFO] 2020-10-09 21:36:56,399 service.worker.FileWorker Execute - FileWorkerGroup :: 0
+[INFO] 2020-10-09 21:36:56,399 service.worker.FileWorker Execute - FileWorkerGroup :: 1
+[INFO] 2020-10-09 21:36:56,399 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 1
+[INFO] 2020-10-09 21:36:56,399 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 0
+[INFO] 2020-10-09 21:36:58,399 service.worker.FileWorker Execute - FileWorkerGroup :: 1
+[INFO] 2020-10-09 21:36:58,399 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 0
+[INFO] 2020-10-09 21:36:58,399 service.worker.FileWorker Execute - FileWorkerGroup :: 0
+[INFO] 2020-10-09 21:36:58,399 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 1
+[INFO] 2020-10-09 21:37:00,399 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 0
+[INFO] 2020-10-09 21:37:00,399 service.worker.FileWorker Execute - FileWorkerGroup :: 1
+[INFO] 2020-10-09 21:37:00,399 service.worker.FileWorker Execute - FileWorkerGroup :: 0
+[INFO] 2020-10-09 21:37:00,400 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 1
+[INFO] 2020-10-09 21:37:02,399 service.worker.FileWorker Execute - FileWorkerGroup :: 0
+[INFO] 2020-10-09 21:37:02,399 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 0
+[INFO] 2020-10-09 21:37:02,399 service.worker.FileWorker Execute - FileWorkerGroup :: 1
+[INFO] 2020-10-09 21:37:02,400 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 1
+[INFO] 2020-10-09 21:37:04,401 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 0
+[INFO] 2020-10-09 21:37:04,401 service.worker.FileWorker Execute - FileWorkerGroup :: 0
+[INFO] 2020-10-09 21:37:04,402 service.worker.FileWorker Execute - FileWorkerGroup :: 1
+[INFO] 2020-10-09 21:37:04,402 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 1
+[INFO] 2020-10-09 21:37:06,401 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 0
+[INFO] 2020-10-09 21:37:06,403 service.worker.FileWorker Execute - FileWorkerGroup :: 0
+[INFO] 2020-10-09 21:37:06,403 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 1
+[INFO] 2020-10-09 21:37:06,403 service.worker.FileWorker Execute - FileWorkerGroup :: 1
+[INFO] 2020-10-09 21:37:08,401 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 0
+[INFO] 2020-10-09 21:37:08,404 service.worker.FileWorker Execute - FileWorkerGroup :: 0
+[INFO] 2020-10-09 21:37:08,404 service.worker.FileWorker Execute - FileWorkerGroup :: 1
+[INFO] 2020-10-09 21:37:08,404 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 1
+[INFO] 2020-10-09 21:37:10,401 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 0
+[INFO] 2020-10-09 21:37:10,404 service.worker.FileWorker Execute - FileWorkerGroup :: 1
+[INFO] 2020-10-09 21:37:10,404 service.worker.FileWorker Execute - FileWorkerGroup :: 0
+[INFO] 2020-10-09 21:37:10,404 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 1
+[INFO] 2020-10-09 21:37:12,402 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 0
+[INFO] 2020-10-09 21:37:12,405 service.worker.FileWorker Execute - FileWorkerGroup :: 0
+[INFO] 2020-10-09 21:37:12,405 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 1
+[INFO] 2020-10-09 21:37:12,405 service.worker.FileWorker Execute - FileWorkerGroup :: 1
+[INFO] 2020-10-09 21:37:14,403 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 0
+[INFO] 2020-10-09 21:37:14,405 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 1
+[INFO] 2020-10-09 21:37:14,405 service.worker.FileWorker Execute - FileWorkerGroup :: 1
+[INFO] 2020-10-09 21:37:14,405 service.worker.FileWorker Execute - FileWorkerGroup :: 0
+[INFO] 2020-10-09 21:37:16,403 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 0
+[INFO] 2020-10-09 21:37:16,406 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 1
+[INFO] 2020-10-09 21:37:16,406 service.worker.FileWorker Execute - FileWorkerGroup :: 0
+[INFO] 2020-10-09 21:37:16,406 service.worker.FileWorker Execute - FileWorkerGroup :: 1
+[INFO] 2020-10-09 21:37:18,404 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 0
+[INFO] 2020-10-09 21:37:18,407 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 1
+[INFO] 2020-10-09 21:37:18,407 service.worker.FileWorker Execute - FileWorkerGroup :: 0
+[INFO] 2020-10-09 21:37:18,407 service.worker.FileWorker Execute - FileWorkerGroup :: 1
+[INFO] 2020-10-09 21:37:20,404 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 0
+[INFO] 2020-10-09 21:37:20,407 service.worker.VerificationWorker Execute - VerificationWorkerGroup :: 1
+[INFO] 2020-10-09 21:37:20,409 service.worker.FileWorker Execute - FileWorkerGroup :: 1
+[INFO] 2020-10-09 21:37:20,409 service.worker.FileWorker Execute - FileWorkerGroup :: 0
